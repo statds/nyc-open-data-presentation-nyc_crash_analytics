@@ -21,6 +21,19 @@ Team Members:
 
 Contributions:
 
-```python
 
-```
+Anthony
+- Understanding the Data
+- SVM analysis
+- Plotnine figures
+- Jupyter slides
+
+Ben
+- Chi-Squared analysis
+- Heatmap
+- Brainstorming/ideas
+
+Ryan
+- Random Forest analysis
+- Slide commentary for each topic
+- Jupyter slides
